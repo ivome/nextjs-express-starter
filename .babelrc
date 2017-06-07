@@ -1,0 +1,12 @@
+{
+    "sourceRoot": "./src",
+    "plugins": [
+        "syntax-async-functions",
+        "transform-object-rest-spread",
+    ],
+    "presets": [
+        "es2015",
+        "next/babel",
+        "stage-0"
+    ]
+}
